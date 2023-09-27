@@ -12,6 +12,7 @@ Trabalho Final de Mineração e Ciência de Dados no contexto da disciplina Apre
 <p align="justify">Nas eleições presidenciais de 2018, foi vista uma forte presença do uso de redes sociais como forma primária de comunicação de um dos candidatos, Jair Bolsonaro.  
 <br>Essa guinada nada convencional do discurso público, da tv para redes sociais, deixou muitos analistas políticos desnorteados.
 <br>Vimos assim a importância de utilizar metodologias computacionais para buscar correlações entre o discurso deste canditado em suas postagens com o aumento de sua popularidade nas pesquisas eleitorais, visto que tal metodologia poderia ser aplicada em futuras eleições para complementar a interpretação de cenários políticos.</p>
+
 ## Modelagem
 - <span style="color:coral">(a) qual tarefa/problema a ser resolvido?;</span>
 - <span style="color:coral">(b) o que é a instância deste problema e como ela é representada: Quais são os atributos e o que
